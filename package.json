@@ -9,7 +9,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/css/styles.css --watch"
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./docs/css/styles.css --watch"
   },
   "keywords": [],
   "author": "",
